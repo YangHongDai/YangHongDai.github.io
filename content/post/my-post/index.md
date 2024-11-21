@@ -1,8 +1,6 @@
 ---
 date: '2024-11-21T14:34:14Z'
-draft: true
 title: 'Project Title'
-summary: "This is a summary of Project 1."
 ---
 
 
