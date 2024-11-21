@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 戴揚紘
+title: Yang-Hong Dai
 
 # Name pronunciation (optional)
 name_pronunciation: Yang-Hong Dai
@@ -30,9 +30,6 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'he165076373@hotmail.com'
-    label: E-mail Me
   - icon: brands/x
     url: https://x.com/yanghongdai1
   - icon: brands/linkedin
